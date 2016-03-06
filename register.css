@@ -1,0 +1,131 @@
+body {
+    
+    background: url(register3.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; 
+}
+h4 a {
+    text-align: center;
+    color: white;
+    font-family:'Open Sans Condensed', sans-serif;
+    font-size: 40px;
+    margin-top:10px;
+}
+
+h4 :link{
+    color:white;
+    text-decoration: none;
+    padding:10px;
+}
+h5  {
+    text-align: center;
+    color: black;
+    font-family:'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+}
+.jumbotron h1 {
+    text-align: center;
+    color:black;
+    font-family: 'Fira Sans', sans-serif;
+    margin-top:-20px;
+}
+.jumbotron h3 {
+    text-align: center;
+    color:black;
+    font-family: 'Fira Sans', sans-serif;
+    font-size:25px;
+}
+
+.col-xs-10 {
+    margin-top:45px;
+    margin-bottom:30px;
+    background-color: rgba(256,256,256,0.3);
+    padding-top:40px;
+    padding:30px;
+    border-radius:20px;   
+}
+.col-xs-6 {
+    margin-top:35px;
+    margin-bottom:30px;
+    background-color: none;
+    padding-top:40px;
+    padding:30px;
+    border-radius:20px;   
+}
+
+h3 {
+    font-size: 35px;
+    text-align: center;
+    color:black;
+    font-family: 'Varela Round', sans-serif;
+}
+h6 {
+    color:black;
+    text-align: right;
+    font-family:'Open Sans Condensed', sans-serif;
+    font-size:30px;
+    margin:10px;
+    margin-top:-40px;
+}
+p, ol {
+    color: black;
+    font-size:25px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+hr {   
+    border-color: transparent;
+    border-width:2px;
+    margin-top:50px; 
+    width: 600px;
+}
+.jumbotron {
+    margin-top: 5px;
+    padding:15px;
+    background:none;
+    color:white;
+    border:2px white;
+    margin-bottom:0px;
+}  
+.navbar {
+    background:none;
+    color:white;;
+    margin-bottom:25px;
+    border-color:transparent;
+    
+}
+
+.navbar-centeralign
+{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    text-align: center;
+    margin: auto;
+}
+.navbar-header {
+    color: black;
+}
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+.navbar-toggle{
+    color: black;
+}
+
+.btn-default {
+    background-color: transparent;
+    border-color:none;
+    height:60px;
+    color: black;
+    font-family:'Open Sans Condensed', sans-serif;
+    font-size:30px;
+}
